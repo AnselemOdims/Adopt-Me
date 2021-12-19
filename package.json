@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/AnselemOdims/Adopt-Me#readme",
   "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/preset-react": "^7.12.13",
     "eslint": "^8.5.0",
     "eslint-config-prettier": "^8.3.0",
     "parcel": "^1.12.3",
