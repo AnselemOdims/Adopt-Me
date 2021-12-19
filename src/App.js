@@ -1,3 +1,4 @@
+/* global React ReactDOM */
 const Pet = (props) => {
   const { name, breed, animal } = props;
   return React.createElement("div", {}, [
